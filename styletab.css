@@ -11,7 +11,9 @@ ul#albumfotos li {
     width: 700px;
     margin: 0 auto;
     padding: 15px;
-    background-color: aqua;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, .4);
+    
+   
    
   
 }
@@ -21,4 +23,9 @@ body{
 footer{
     text-align: center;
     padding: 15px;
+}
+#container{
+    border: 2px solid black; 
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, .4);
+    
 }
